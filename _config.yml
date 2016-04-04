@@ -1,0 +1,28 @@
+name: Burton
+favicon: null
+layout_spectrum: 0.6675569782964885
+typography_spectrum: 0.051814472302794456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20236816303804517
+  lightness: 0.6022113081999123
+  saturation: 0.7824246443342417
+  rhythmicContrast: 0.011978722410276532
+purpose: []
